@@ -34,6 +34,7 @@ body{
     border-radius: 0.5rem;
     margin-bottom: 1rem;
     box-shadow: 0 5px 3px -2px rgba(0,0,0,0.2), 0 2px 9px 0 rgba(0,0,0,1.14), 0 1px 5px 0 rgba(0,0,0,0.20);
+    word-wrap: break-word;
 }
 
 .btn{
