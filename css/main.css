@@ -6,19 +6,20 @@
 }
 
 body{
-    min-height: 100vh;
+    height: 100vh;
     background-color: #d8d8f9;
     display: grid;
     place-items: center;
 }
 
 .calculator{
+    margin-top: 20px;
     background-color:cornflowerblue;
     color:aquamarine;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 0.5rem;
-    height: 800px;
+    height: 88vh;
     width: 500px;
     max-width: 100%;
     padding: 1.5rem;
@@ -64,4 +65,35 @@ body{
 
 #equal:hover{
     background-color: darksalmon;
+}
+
+.footer{
+    margin-top: 15px;
+    height: 8vh;
+    width: 100%;
+    background-color: darkslateblue;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 50px;
+}
+
+.footer-logo{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.footer-ul{
+    list-style: none;
+}
+
+.footer-icon{
+    font-weight: bold;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.fab{
+    color: aliceblue;
+    font-size: 40px;
 }

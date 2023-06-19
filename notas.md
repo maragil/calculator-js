@@ -75,3 +75,7 @@ que
 display: flex;
 justify-content: center;
 align-items: center;
+
+- Para que no se desborden los número de la pantalla:
+
+word-wrap: break-word --> admite dos modos, "normal", que se desbordaría el texto y es la opción por defecto y "break-word" que cortaría la palabra si fuese necesario, pasándola a la línea siguiente
