@@ -80,6 +80,8 @@ body{
 }
 
 .footer-logo{
+    text-decoration: none;
+    color: aliceblue;
     font-size: 30px;
     font-weight: bold;
 }
