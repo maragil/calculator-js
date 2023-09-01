@@ -1,5 +1,21 @@
 # 🧮 [Calculadora](https://calculator-js.maragil.com/) 
 
+Esta aplicación web programada en [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) permite a los usuarios realizar operaciones matemáticas básicas.
+
+## 	🚀 Instalación.
+
+Para poder ejecutar y utilizar este proyecto, sigue los siguientes pasos:
+
+1. Clona este repositorio en tu máquina local.
+   ```bash
+   git clone https://github.com/tuusuario/calculator-js.git
+   ```
+2. Navega a la carpeta del proyecto.
+   ```bash
+   cd calculator-js
+   ```
+3. Inicia la aplicación abriendo el `index.html` en tu navegador.
+
 ## 🧰 Herramientas y tecnologías.
 
 Este proyecto ha sido creado utilizando una combinación de herramientas y tecnologías. A continuación, te presento las principales herramientas que he utilizado:
